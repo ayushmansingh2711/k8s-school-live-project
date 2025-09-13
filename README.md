@@ -1,5 +1,10 @@
 live a website with k8s 
+
+
 pull the image  from docker-hub
+
+
+
 create two yaml file  
 
 
